@@ -1,0 +1,11 @@
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\Release\WebScrapingTool.exe.config
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\Release\WebScrapingTool.exe
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\Release\WebScrapingTool.pdb
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\Release\WebScrapingTool.xml
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\Release\WebScrapingTool.vbprojResolveAssemblyReference.cache
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\Release\WebScrapingTool.Form1.resources
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\Release\WebScrapingTool.Resources.resources
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\Release\WebScrapingTool.vbproj.GenerateResource.Cache
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\Release\WebScrapingTool.exe
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\Release\WebScrapingTool.xml
+c:\users\kdvso\documents\visual studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\Release\WebScrapingTool.pdb

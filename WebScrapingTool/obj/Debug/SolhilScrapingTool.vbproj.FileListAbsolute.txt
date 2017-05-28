@@ -1,0 +1,16 @@
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\SolhilScrapingTool.exe.config
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.vbproj.ResolveComReference.cache
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\SolhilScrapingTool.exe
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\SolhilScrapingTool.pdb
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\SolhilScrapingTool.xml
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\HtmlAgilityPack.dll
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\HtmlAgilityPack.pdb
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\HtmlAgilityPack.xml
+D:\SolhilScrapingTool\WebScrapingTool\bin\Debug\itextsharp.xml
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.vbprojResolveAssemblyReference.cache
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.Form1.resources
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.Resources.resources
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.vbproj.GenerateResource.Cache
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.exe
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.xml
+D:\SolhilScrapingTool\WebScrapingTool\obj\Debug\SolhilScrapingTool.pdb

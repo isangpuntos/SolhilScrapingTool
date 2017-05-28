@@ -1,0 +1,16 @@
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\WebScrapingTool.exe.config
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.vbproj.ResolveComReference.cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\WebScrapingTool.exe
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\WebScrapingTool.pdb
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\WebScrapingTool.xml
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\itextsharp.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\bin\x86\Debug\HtmlAgilityPack.xml
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.vbprojResolveAssemblyReference.cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.Form1.resources
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.Resources.resources
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.vbproj.GenerateResource.Cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.exe
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.xml
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\WebScrapingTool\WebScrapingTool\obj\x86\Debug\WebScrapingTool.pdb
